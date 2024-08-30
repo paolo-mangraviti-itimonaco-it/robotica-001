@@ -1,0 +1,20 @@
+Arduino: From Physics to Robotics
+Irene Marzoli, Nico Rizza, Alessandro Saltarelli & Euro Sampaolesi
+Research and Experiences from FabLearn Italy 2019, in the Italian Schools and Beyond
+Conference paper | Open Access | First Online: 11 December 2021
+https://link.springer.com/chapter/10.1007/978-3-030-77040-2_41?fromPaywallRec=true
+[PDF]   https://link.springer.com/content/pdf/10.1007/978-3-030-77040-2.pdf
+[ePub]  https://link.springer.com/download/epub/10.1007/978-3-030-77040-2.epub
+
+
+Meaningful Making 3: Projects and Inspirations for FabLabs and Makerspaces
+Edited by Paulo Blikstein, Sylvia Libow Martinez, Heather Allen Pang
+[PDF]    https://fablearn.org/wp-content/uploads/2023/10/Meaningful-Making-3.pdf
+
+Meaningful Making 2: Projects and Inspirations for Fab Labs and Makerspaces
+Edited by Paulo Blikstein, Sylvia Libow Martinez, Heather Allen Pang
+[PDF]    https://fablearn.org/wp-content/uploads/2019/03/Meaningful-Making-2.pdf
+
+Meaningful Making 1: Projects and Inspirations for FabLabs and Makerspaces
+Edited by Paulo Blikstein, Sylvia Libow Martinez, Heather Allen Pang
+[PDF]    https://fablearn.org/wp-content/uploads/2023/10/Meaningful-Making-1.pdf
