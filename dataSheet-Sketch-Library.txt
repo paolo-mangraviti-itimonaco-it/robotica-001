@@ -1,0 +1,5 @@
+Giroscopi
+  GY-52 basato su MPU 6000/6050
+  https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf
+  https://www.arduino.cc/reference/en/libraries/mpu6050/
+  
