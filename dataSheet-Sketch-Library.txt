@@ -3,4 +3,7 @@ Giroscopi
   https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf
   https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Register-Map1.pdf
   https://www.arduino.cc/reference/en/libraries/mpu6050/
-  
+  Come funziona: https://www.youtube.com/watch?v=MsyqsOUBQuU
+  angoli di Eulero e roll-pitch-yaw (rollio, beccheggio, imbardata): http://www.diag.uniroma1.it/deluca/rob1/08_EuleroRPYOmogenee.pdf
+  Giroscopio (in generale):   https://www.youtube.com/watch?v=6O8FX10pUaQ
+                              https://www.youtube.com/watch?v=FfMyn9mZvvw
