@@ -1,0 +1,9 @@
+1. Pendolo
+2. Piano inclinato
+3. Caduta dei gravi
+4. Trasmissione dati via rete IP
+5. Telegram bot
+6. Braccio meccanico
+    a.  flessometri
+    b.  giroscopio   - a seguire il movimento
+7.  giroscopio       - a registrare il movimento
