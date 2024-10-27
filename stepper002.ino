@@ -16,7 +16,7 @@ void eseguiPasso(int senso)
   {
     for (int i = 0, maschera=1; i < 4; i++, maschera*=2)
     {
-      if (registroMotore && maschera)
+      if (registroMotore == maschera)
       { digitalWrite(primoPin+i,HIGH); }
       else
       { digitalWrite(primoPin+i,LOW); }
@@ -27,7 +27,7 @@ void eseguiPasso(int senso)
   {
     for (int i = 3, maschera=8; i >=0; i--, maschera/=2)
     {
-      if (registroMotore && maschera)
+      if (registroMotore == maschera)
       { digitalWrite(primoPin+i,HIGH); }
       else
       { digitalWrite(primoPin+i,LOW); }
