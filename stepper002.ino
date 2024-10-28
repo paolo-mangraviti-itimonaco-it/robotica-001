@@ -40,6 +40,7 @@ void eseguiPasso(int senso)
 void setup() {
 
 // inizializzazione della porta seriale
+   for (int i=0;i<4;i++) { pinMode(primoPin[1]+i,OUTPUT); }
   Serial.begin(9600);
 }
 
