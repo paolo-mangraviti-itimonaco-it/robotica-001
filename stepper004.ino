@@ -23,6 +23,7 @@ void eseguiPasso(int senso,int motore)
   //if (registro[motore] > 8) registro[motore]=1; else if (registro[motore] <=0) registro[motore] = 8;
 }
 void setup() {
+   for (int i=0;i<4;i++) { pinMode(primoPin[1]+i,OUTPUT); }
   Serial.begin(9600);
 }
 
