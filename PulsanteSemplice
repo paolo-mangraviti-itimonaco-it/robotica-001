@@ -1,0 +1,14 @@
+/*
+   Lab IoT e Robotica Educativa ITI A. Monaco di Cosenza - 12/11/2024
+ */
+const int pinPulsante = 4;
+
+void setup() {
+  pinMode(pinPulsante,INPUT);
+  Serial.begin(9600);
+}
+
+void loop() {
+  if (digitalRead(pinPulsante)==LOW) { Serial.println("Pulsante OFF, non premuto, ---"); }
+  else { Serial.println("Pulsante ON, premuto, -V-"); }
+}
