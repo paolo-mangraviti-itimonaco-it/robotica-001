@@ -3,6 +3,7 @@
 const int triggerPort = 8;
 const int echoPort = 9;
 const int led = 11;
+const int distanzaSoglia = 10;
  
 void setup() {
   pinMode(triggerPort, OUTPUT);
@@ -11,7 +12,7 @@ void setup() {
   Serial.begin(9600);
   Serial.print( "Sensore Ultrasuoni: Verosimilmente Pronto");
 }
- 
+
 void loop() {
   //porta bassa l'uscita del trigger
   digitalWrite( triggerPort, LOW );
@@ -30,7 +31,7 @@ void loop() {
     Serial.print("mt:"); Serial.println(distanza*10);
   }
   
-  if(distanza < 10) { digitalWrite(led, HIGH); }
+  if(distanza < distanzaSoglia) { digitalWrite(led, HIGH); }
   else { digitalWrite(led, LOW); }
 
   //pausa tra ogni iterazione un decimo di secondo
