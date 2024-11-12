@@ -55,7 +55,7 @@ void loop() {
   }
   delay(500);
   Serial.println("Rotazione senso antiorario");
-  for (int p=passiPerRotazione; p>=0;p--)
+  for (int p = passiPerRotazione; p>=0; p--)
   {
     eseguiPasso(ANTIORARIO,1);
     delay(velocita);
